@@ -99,8 +99,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaromal-s&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
+<p align="center">
 ![Top language](https://stats.pphat.top/languages?username=aaromal-s)
+</p>
 <br/>
 
 ## 🔗 Connect with Me
