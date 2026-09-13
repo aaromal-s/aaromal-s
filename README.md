@@ -11,6 +11,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner" width="50%" height="auto" />
 </p>
 
+
 ## 📌 About Me
 - 🔭 **Current Focus:** Building full-stack web applications integrated with AI/ML features.
 - 🌱 **Learning:** Deepening my knowledge of Next.js and backend architecture.
@@ -99,6 +100,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaromal-s&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
 ![Top language](https://stats.pphat.top/languages?username=aaromal-s)
 <br/>
 
