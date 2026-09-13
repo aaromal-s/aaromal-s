@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aaromal%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Tech%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.%22%E2%80%94%20Arthur%20C.%20Clarke%20%E2%9C%A8" alt="Typing introduction" />
-</p>
+<h1 align="center">Hi 👋, I'm Aaromal S</h1>
+<h3 align="center">AI/ML Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=aaromal-s">
@@ -13,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner" width="70%" height="auto" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner" width="50%" height="auto" />
 </p>
 
 ## 📌 About Me
