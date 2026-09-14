@@ -2,12 +2,6 @@
 <h3 align="center">AI/ML Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aaromal-s">
-    <img src="https://komarev.com/ghpvc/?username=aaromal-s&label=Profile%20views&color=00FFFF&style=flat-square" alt="aaromal-s's profile views" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="50%" height="auto" />
 </p>
 
@@ -125,6 +119,11 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aaromal-s">
+    <img src="https://komarev.com/ghpvc/?username=aaromal-s&label=Profile%20views&color=00FFFF&style=flat-square" alt="aaromal-s's profile views" />
+  </a>
 </p>
 
 <div align="center">
