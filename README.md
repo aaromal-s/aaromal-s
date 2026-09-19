@@ -210,21 +210,6 @@ Data Pipelines
 <a href="mailto:aaromals8921@gmail.com">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="45"/>
 </a>
-
-<br><br>
-
-<a href="https://github.com/aaromal-s">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aaromals/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F728"/>
-</a>
-
-<a href="mailto:aaromals8921@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F728"/>
-</a>
-
 </div>
 
 ---
