@@ -183,19 +183,19 @@ Data Pipelines
 ## 🚀 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 & 𝙴𝚇𝙿𝙻𝙾𝚁𝙸𝙽𝙶
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│     AI / ML                  FULL STACK              │
-│       │                          │                   │
-│       ├── Machine Learning       ├── React           │
-│       ├── Generative AI          ├── Node.js         │
-│       ├── LLM Integration        ├── Express         │
-│       └── Data Engineering       └── MongoDB         │
-│                                                      │
-│                    ↓                                 │
-│              INTELLIGENT APPS                        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+       ┌──────────────────────────────────────────────────────┐
+       │                                                      │
+       │     AI / ML                  FULL STACK              │
+       │       │                          │                   │
+       │       ├── Machine Learning       ├── React           │
+       │       ├── Generative AI          ├── Node.js         │
+       │       ├── LLM Integration        ├── Express         │
+       │       └── Data Engineering       └── MongoDB         │
+       │                                                      │
+       │                    ↓                                 │
+       │              INTELLIGENT APPS                        │
+       │                                                      │
+       └──────────────────────────────────────────────────────┘
 ```
 
 </div>
