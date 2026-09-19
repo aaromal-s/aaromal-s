@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Aaromal S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">AI/ML Tech Enthusiast</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F728&width=435&lines=A+I+%2F+M+L+TECH+ENTHUSIAST;FULL+STACK+DEVELOPER" alt="Typing SVG" /></a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="40%" height="auto" />
