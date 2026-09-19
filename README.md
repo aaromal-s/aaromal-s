@@ -2,7 +2,7 @@
 
 # 𝙷𝙸, 𝙸'𝙼 𝙰𝙰𝚁𝙾𝙼𝙰𝙻 𝚂 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-### 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃 • 𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
+### 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃 • 𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F728&center=true&vCenter=true&width=650&lines=Building+Intelligent+Web+Applications;Exploring+AI+%2F+ML+%26+Generative+AI;Turning+Ideas+Into+Scalable+Solutions;Full+Stack+%7C+AI+%2F+ML+%7C+Data" alt="Typing SVG" />
@@ -14,7 +14,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aaromal-s&label=PROFILE+VIEWS&color=00F728&style=for-the-badge" />
+<a href="https://komarev.com/ghpvc/?username=aaromal-s">
+  <img src="https://komarev.com/ghpvc/?username=aaromal-s&label=PROFILE+VIEWS&color=F97316&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+</a>
 
 </div>
 
@@ -54,7 +56,10 @@
 <tr>
 <td align="center" width="220">
 
-### 🤖
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="30" height="30">
+</picture>
 
 **𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙸𝚅𝙴 𝙰𝙸**
 
@@ -66,7 +71,10 @@ Prompt Engineering
 
 <td align="center" width="220">
 
-### 🧠
+### <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="30" height="30">
+</picture>
 
 **𝙰𝙸 / 𝙼𝙻**
 
@@ -78,7 +86,10 @@ Model Integration
 
 <td align="center" width="220">
 
-### 💻
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30">
+</picture>
 
 **𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺**
 
@@ -90,7 +101,10 @@ Backend Architecture
 
 <td align="center" width="220">
 
-### ☁️
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2601_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601_fe0f/512.gif" alt="☁" width="32" height="32">
+</picture>
 
 **𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶**
 
