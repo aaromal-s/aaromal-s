@@ -1,191 +1,256 @@
 <div align="center">
 
-# Hi, I'm Aaromal S 
+# 𝙷𝙸, 𝙸'𝙼 𝙰𝙰𝚁𝙾𝙼𝙰𝙻 𝚂 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
+### 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃 • 𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F728&width=435&lines=A+I+%2F+M+L+TECH+ENTHUSIAST;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F728&center=true&vCenter=true&width=650&lines=Building+Intelligent+Web+Applications;Exploring+AI+%2F+ML+%26+Generative+AI;Turning+Ideas+Into+Scalable+Solutions;Full+Stack+%7C+AI+%2F+ML+%7C+Data" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="40%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aaromal-s&label=PROFILE+VIEWS&color=00F728&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 
 </div>
 
 <div align="center">
 
-## 📌 About Me
+🎓 **Computer Science & Engineering — AI/ML**
 
-🔭 **Current Focus:** Building full-stack web applications integrated with AI/ML features.
-🌱 **Learning:** Deepening my knowledge of Next.js and backend architecture.
-💬 **Ask me about:** Python, web development basics, and connecting frontend to backend APIs.
-⚡ **Fun Fact:** I enjoy writing the code that trains a model, and the code that displays its results.
+💻 **Full Stack Developer**
 
-</div>
+🤖 **AI/ML Enthusiast**
 
-<div align="center">
+🚀 **Building intelligent & scalable applications**
 
-## 🧠 My Focus Areas
+🌱 **Currently exploring Next.js, Generative AI & backend architecture**
 
-🤖 Generative AI & LLM Integration
-🔌 Building Custom APIs for ML
-🔄 Data Pipelines & Engineering
-💻 Full Stack Development using MERN
+⚡ *I enjoy writing both the code that trains a model and the code that brings its results to life.*
 
 </div>
 
+---
+
 <div align="center">
 
-## 📊 GitHub Stats & Trophies
+## 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙵𝙾𝙲𝚄𝚂
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+
+### 🤖
+
+**𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙸𝚅𝙴 𝙰𝙸**
+
+LLMs
+AI APIs
+Prompt Engineering
+
+</td>
+
+<td align="center" width="220">
+
+### 🧠
+
+**𝙰𝙸 / 𝙼𝙻**
+
+Machine Learning
+Data Processing
+Model Integration
+
+</td>
+
+<td align="center" width="220">
+
+### 💻
+
+**𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺**
+
+MERN
+REST APIs
+Backend Architecture
+
+</td>
+
+<td align="center" width="220">
+
+### ☁️
+
+**𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶**
+
+Docker
+Cloud
+Data Pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺
+
+### 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php" />
+
+### 𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+
+### 𝙱𝙰𝙲𝙺𝙴𝙽𝙳
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+
+### 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+### 𝙳𝙴𝚅𝙾𝙿𝚂 & 𝙲𝙻𝙾𝚄𝙳
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp" />
+
+### 𝚃𝙾𝙾𝙻𝚂
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝙰𝙽𝙰𝙻𝚈𝚃𝙸𝙲𝚂
+
+<br>
 
 <a href="https://github.com/aaromal-s">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaromal-s&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="aaromal-s's GitHub Stats" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaromal-s&show_icons=true&theme=dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
 </a>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=aaromal-s&theme=dark&hide_border=true&cache_seconds=86400" alt="aaromal-s's GitHub Streak" />
-
-<br><br>
-
-<img src="https://trophy.ryglcloud.net/?username=aaromal-s&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aaromal S's GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-## 🛠️ Languages & Tools
-
-### 👨‍💻 Programming Languages
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/>
-
-<br><br>
-
-### 🎨 Frontend
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/>
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40"/>
-&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40"/>
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-
-<br><br>
-
-### ☁️ DevOps & Cloud
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40"/>
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40"/>
+<a href="https://github.com/aaromal-s">
+<img height="180" src="https://streak-stats.demolab.com/?user=aaromal-s&theme=dark&hide_border=true&border_radius=12"/>
+</a>
 
 <br><br>
 
 <a href="https://github.com/aaromal-s">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaromal-s&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaromal-s&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=12"/>
 </a>
 
 <br><br>
 
-<img src="https://stats.pphat.top/languages?username=aaromal-s" alt="Top language"/>
+<img src="https://trophy.ryglcloud.net/?username=aaromal-s&theme=dark&no-frame=true&no-bg=true&margin-w=6"/>
 
 </div>
 
+---
+
 <div align="center">
 
-## 🔗 Connect with Me
+## 🚀 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 & 𝙴𝚇𝙿𝙻𝙾𝚁𝙸𝙽𝙶
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│     AI / ML                  FULL STACK              │
+│       │                          │                   │
+│       ├── Machine Learning       ├── React           │
+│       ├── Generative AI          ├── Node.js         │
+│       ├── LLM Integration       ├── Express         │
+│       └── Data Engineering       └── MongoDB         │
+│                                                      │
+│                    ↓                                 │
+│              INTELLIGENT APPS                       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 𝙻𝙴𝚃'𝚂 𝙲𝙾𝙽𝙽𝙴𝙲𝚃
 
 <a href="https://www.linkedin.com/in/aaromals/">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/Aaromal_8">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/918921202986">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:aaromals8921@gmail.com">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="45"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/aaromal-s">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aaromals/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F728"/>
+</a>
+
+<a href="mailto:aaromals8921@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F728"/>
 </a>
 
 </div>
 
+---
+
 <div align="center">
 
-## 💬 Quote
+## 💬 𝙵𝙰𝚅𝙾𝚁𝙸𝚃𝙴 𝚀𝚄𝙾𝚃𝙴
 
-> "Any sufficiently advanced technology is indistinguishable from magic."
+> *"Any sufficiently advanced technology is indistinguishable from magic."*
+>
 > — **Arthur C. Clarke** ✨
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" width="100%" alt="Space Shooter Contribution Graph"/>
 
 <br><br>
 
-<a href="https://komarev.com/ghpvc/?username=aaromal-s">
-  <img src="https://komarev.com/ghpvc/?username=aaromal-s&label=Profile%20views&color=00FFFF&style=flat-square" alt="aaromal-s's profile views" />
-</a>
+### 𝙺𝙴𝙴𝙿 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶. 𝙺𝙴𝙴𝙿 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶. 🚀
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Bottom Animation"/>
 
 </div>
-
-
