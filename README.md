@@ -189,11 +189,11 @@ Data Pipelines
 │       │                          │                   │
 │       ├── Machine Learning       ├── React           │
 │       ├── Generative AI          ├── Node.js         │
-│       ├── LLM Integration       ├── Express         │
+│       ├── LLM Integration        ├── Express         │
 │       └── Data Engineering       └── MongoDB         │
 │                                                      │
 │                    ↓                                 │
-│              INTELLIGENT APPS                       │
+│              INTELLIGENT APPS                        │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
