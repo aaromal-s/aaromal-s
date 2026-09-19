@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaromal S</h1>
+<h1 align="center">Hi, I'm Aaromal S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">AI/ML Tech Enthusiast</h3>
 
 <p align="center">
