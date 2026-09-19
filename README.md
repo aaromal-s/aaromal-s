@@ -5,7 +5,7 @@
 ### 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃 • 𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F728&center=true&vCenter=true&width=650&lines=Building+Intelligent+Web+Applications;Exploring+AI+%2F+ML+%26+Generative+AI;Turning+Ideas+Into+Scalable+Solutions;Full+Stack+%7C+AI+%2F+ML+%7C+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Building+Intelligent+Web+Applications;Exploring+AI+%2F+ML+%26+Generative+AI;Turning+Ideas+Into+Scalable+Solutions;Full+Stack+%7C+AI+%2F+ML+%7C+Data" alt="Typing SVG" />
 </a>
 
 <br>
