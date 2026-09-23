@@ -1,6 +1,10 @@
 <div align="center">
 
-# 𝙷𝙸, 𝙸'𝙼 𝙰𝙰𝚁𝙾𝙼𝙰𝙻 𝚂 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<picture>
+  <h1># 𝙷𝙸, 𝙸'𝙼 𝙰𝙰𝚁𝙾𝙼𝙰𝙻 𝚂 </h1>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="35" height="35">
+</picture>
 
 ### 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃 • 𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" />
 
