@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centr">
 
 # 𝙷𝙸, 𝙸'𝙼 𝙰𝙰𝚁𝙾𝙼𝙰𝙻  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="35" height="35">
 
