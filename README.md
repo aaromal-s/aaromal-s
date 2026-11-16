@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝙷𝙸, 𝙸'𝙼 𝙰𝙰𝚁𝙾𝙼𝙰𝙻 𝚂
+# 𝙷𝙸, 𝙸'𝙼 𝙰𝚁𝙾𝙼𝙰𝙻
 
 ### 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃 • 𝙵𝚄𝙻𝙻 𝚂𝚃𝙰𝙲𝙺 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" />
 
